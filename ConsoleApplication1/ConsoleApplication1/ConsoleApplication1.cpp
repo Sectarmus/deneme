@@ -6,5 +6,9 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
+    cout << "Yazılacak şeyi yaz len: ";
+    cin >> x;
+    cout << "Yazdığın şey bu: " << x;
+
 
 }
